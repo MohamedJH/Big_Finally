@@ -1,0 +1,16 @@
+.Register-page {
+    width: 26rem;
+    border-radius:2em;
+    overflow: hidden;
+}
+.text{
+    font-family: cursive;
+    font-weight: 900;
+}
+
+.Input {
+    border-radius:0.5em
+}
+Button{
+    border-radius: 5em;
+}

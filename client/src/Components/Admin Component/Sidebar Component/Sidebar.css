@@ -1,0 +1,45 @@
+.wrapper {
+    left: 0; 
+    right: 0;
+    
+    
+    top: 0;
+    background-color: #ceceda;    
+    height: 555px;
+    width: 1350px;
+    
+}
+.sidebar-show{
+    height: 100%;
+    width: 25%;
+   background-color: #343A40;
+}
+
+.sidebar-hide{
+    margin-left: -300px;  
+    height: 100%;
+}
+
+.main-panel{
+    width:82%;
+    overflow: auto;
+
+}
+.main-panel-extended{
+    width:100%;
+    overflow: auto;
+}
+
+.card-img-top{
+    border:1.5px solid rgb(153, 153, 153);
+    border-radius: 50%;
+    width: 50%;
+    margin:auto;
+}
+
+.Views-container{
+    height: 95%;
+    
+}
+
+

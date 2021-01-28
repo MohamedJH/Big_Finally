@@ -1,0 +1,6 @@
+export const GET_QUESTIONS="GET_QUESTIONS"
+export const ADD_QUESTIONS="ADD_QUESTIONS"
+
+
+export const GET_QUIZZES="GET_QUIZZES"
+export const ADD_QUIZZES="ADD_QUIZZES"

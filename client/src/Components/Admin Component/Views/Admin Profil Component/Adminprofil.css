@@ -1,0 +1,21 @@
+.adminProfil-container{
+   
+    
+}
+
+/* .card-img-top{
+    margin-top: 100px;
+    border-radius: 50%;
+    width: 50%;
+    margin:auto;
+} */
+
+.card-img-top span{
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    width: 130px;
+    height: 130px;
+    padding: 25px 10px 10px 10px;
+    font-size: 50px;
+}
